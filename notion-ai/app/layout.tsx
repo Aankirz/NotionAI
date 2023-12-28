@@ -25,7 +25,7 @@ export default function RootLayout({
             defaultTheme="system"
             enableSystem
             disableTransitionOnChange
-            storageKey="jotion-theme-2"
+            storageKey="neural-theme-2"
           >
             {children}
           </ThemeProvider>
